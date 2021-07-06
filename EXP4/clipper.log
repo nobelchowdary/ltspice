@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Nobel Chowdary\Desktop\IC Lab\EXP4\clipper.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Feb 21 19:00:10 2021
+Total elapsed time: 0.163 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3896
+traniter = 3888
+tranpoints = 1505
+accept = 1346
+rejected = 159
+matrix size = 12
+fillins = 3
+solver = Normal
+Matrix Compiler1: 572 bytes object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1010 bytes object code size  0.2/0.3/[0.2]
+
